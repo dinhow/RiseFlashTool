@@ -1,6 +1,8 @@
 C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\obj\Debug\net10.0-windows\RiseFlashTool.csproj.AssemblyReference.cache
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\obj\Debug\net10.0-windows\MainWindow.baml
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\obj\Debug\net10.0-windows\AboutEnterpriseWindow.baml
+C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\obj\Debug\net10.0-windows\AboutWindow.baml
+C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\obj\Debug\net10.0-windows\AboutEnterpriseWindow.g.cs
+C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\obj\Debug\net10.0-windows\AboutWindow.g.cs
 C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\obj\Debug\net10.0-windows\App.g.cs
 C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\obj\Debug\net10.0-windows\RiseFlashTool_Content.g.cs
 C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\obj\Debug\net10.0-windows\RiseFlashTool_MarkupCompile.cache
@@ -9,63 +11,9 @@ C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\obj\Debug\ne
 C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\obj\Debug\net10.0-windows\RiseFlashTool.AssemblyInfoInputs.cache
 C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\obj\Debug\net10.0-windows\RiseFlashTool.AssemblyInfo.cs
 C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\obj\Debug\net10.0-windows\RiseFlashTool.csproj.CoreCompileInputs.cache
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\buspirate_winbond.jpeg
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\buspirate_winbond_mini.png
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CDM v2.12.28 WHQL Certified\amd64\ftbusui.dll
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CDM v2.12.28 WHQL Certified\amd64\ftcserco.dll
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CDM v2.12.28 WHQL Certified\amd64\ftd2xx.lib
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CDM v2.12.28 WHQL Certified\amd64\ftd2xx64.dll
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CDM v2.12.28 WHQL Certified\amd64\ftdibus.sys
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CDM v2.12.28 WHQL Certified\amd64\ftlang.dll
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CDM v2.12.28 WHQL Certified\amd64\ftser2k.sys
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CDM v2.12.28 WHQL Certified\amd64\ftserui2.dll
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CDM v2.12.28 WHQL Certified\ftd2xx.h
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CDM v2.12.28 WHQL Certified\ftdibus.cat
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CDM v2.12.28 WHQL Certified\ftdibus.inf
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CDM v2.12.28 WHQL Certified\ftdiport.cat
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CDM v2.12.28 WHQL Certified\ftdiport.inf
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CDM v2.12.28 WHQL Certified\i386\ftbusui.dll
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CDM v2.12.28 WHQL Certified\i386\ftcserco.dll
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CDM v2.12.28 WHQL Certified\i386\ftd2xx.dll
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CDM v2.12.28 WHQL Certified\i386\ftd2xx.lib
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CDM v2.12.28 WHQL Certified\i386\ftdibus.sys
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CDM v2.12.28 WHQL Certified\i386\ftlang.dll
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CDM v2.12.28 WHQL Certified\i386\ftser2k.sys
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CDM v2.12.28 WHQL Certified\i386\ftserui2.dll
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CDM v2.12.28 WHQL Certified\Static\amd64\ftd2xx.lib
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CDM v2.12.28 WHQL Certified\Static\i386\ftd2xx.lib
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CDM212364_Setup.exe
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CH341-Drivers\CH341Parallel_driver_support WIN7\CH341DLL.DLL
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CH341-Drivers\CH341Parallel_driver_support WIN7\CH341PAR.EXE
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CH341-Drivers\CH341Parallel_driver_support WIN7\CH341W64.SYS
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CH341-Drivers\CH341Parallel_driver_support WIN7\CH341WDM.CAT
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CH341-Drivers\CH341Parallel_driver_support WIN7\CH341WDM.INF
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CH341-Drivers\CH341Parallel_driver_support WIN7\CH341WDM.SYS
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CH341-Drivers\CH341Parallel_driver_support WIN7\DRVSETUP64.exe
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CH341-Drivers\CH341Parallel_driver_support WIN7\DRVSETUP64\DRVSETUP64.exe
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CH341-Drivers\CH341Serial_driver_support WIN7\CH341PT.DLL
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CH341-Drivers\CH341Serial_driver_support WIN7\CH341S64.SYS
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CH341-Drivers\CH341Serial_driver_support WIN7\CH341S98.SYS
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CH341-Drivers\CH341Serial_driver_support WIN7\ch341SER.CAT
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CH341-Drivers\CH341Serial_driver_support WIN7\CH341SER.EXE
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CH341-Drivers\CH341Serial_driver_support WIN7\CH341SER.INF
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CH341-Drivers\CH341Serial_driver_support WIN7\CH341SER.SYS
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CH341-Drivers\CH341Serial_driver_support WIN7\CH341SER.VXD
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CH341-Drivers\CH341Serial_driver_support WIN7\DRVSETUP64.exe
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\CH341-Drivers\CH341Serial_driver_support WIN7\DRVSETUP64\DRVSETUP64.exe
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\chclip.png
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\flashrom.exe
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\ft232h.png
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\libwinpthread-1.dll
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\md5.txt
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\pecheck.py
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\pylori.ico
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\README.md
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\sha256.txt
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\TUTORIAL.pdf
+C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\obj\Debug\net10.0-windows\RiseFlashTool.sourcelink.json
 C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\x32_flashrom\flashrom.exe
 C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\x32_flashrom\libwinpthread-1.dll
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\ft\zadig-2.8.exe
 C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\RiseFlashTool.exe
 C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\RiseFlashTool.deps.json
 C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\RiseFlashTool.runtimeconfig.json
@@ -82,13 +30,11 @@ C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\ne
 C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
 C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
 C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\obj\Debug\net10.0-windows\AboutWindow.baml
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\obj\Debug\net10.0-windows\AboutWindow.g.cs
+C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\obj\Debug\net10.0-windows\MainWindow.g.cs
 C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\obj\Debug\net10.0-windows\RiseFlas.FD39FE7E.Up2Date
 C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\obj\Debug\net10.0-windows\RiseFlashTool.dll
 C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\obj\Debug\net10.0-windows\refint\RiseFlashTool.dll
 C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\obj\Debug\net10.0-windows\RiseFlashTool.pdb
 C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\obj\Debug\net10.0-windows\RiseFlashTool.genruntimeconfig.cache
 C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\obj\Debug\net10.0-windows\ref\RiseFlashTool.dll
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\obj\Debug\net10.0-windows\AboutEnterpriseWindow.baml
-C:\Users\75014\OneDrive - Positivo\Documentos\dev\PFT\RiseFlashTool\obj\Debug\net10.0-windows\AboutEnterpriseWindow.g.cs

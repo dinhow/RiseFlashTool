@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RiseFlashTool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+509cb36a081300e3c2750c532df8328d5efae571")]
 [assembly: System.Reflection.AssemblyProductAttribute("RiseFlashTool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RiseFlashTool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
